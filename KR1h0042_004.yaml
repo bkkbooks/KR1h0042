@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1h0042/krp/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二冊之內寶永三年丙戌八月良辰龍菖首座代龍奭修褙焉
+  hash: sha256:7683124611672bb51201a5adbab54ee8ebf6b6dec0377d351572ce01e743e1f6
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1h0042_SBCK_004-1a}
+metadata:
+  title: 中庸説
+  edition:
+    short: krp
+  base_edition: SBCK
+  date: '2015-09-12 00:40:23.773302'
+  source:
+    repository: kanripo
+    path: KR1h0042/KR1h0042_004.txt
+hash: sha256:df5693ff693c6718c8bdfe7d24886f2361c5c1573cf5e3217447306c4641390c
